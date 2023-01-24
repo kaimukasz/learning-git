@@ -19,3 +19,4 @@ print(f"W sumie kupuję {suma} produktów.")
 
 print("Nowy wpis")
 print("Kolejny nowy wpis")
+print("To teraz jest wysłana wiadomość z repozytorium zdalnego na lokalne")
