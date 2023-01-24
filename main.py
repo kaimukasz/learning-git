@@ -27,3 +27,6 @@ print("teraz juz chyba rozumiem działanie systemu kontroli wersji")
 
 print("a teraz szybka akcja reaktywacja")
 print("no i wiadomość zwrotna, DOPBRZE CI IDZIE I OBY TAK DALEJ")
+for i in range(0, 100):
+  if i % 5 == 0:
+    print("Liczby z przedaiłu od 0 do 100 podzielne przez 5:", i)
