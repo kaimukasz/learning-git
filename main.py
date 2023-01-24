@@ -17,26 +17,4 @@ for shop in shopping_list:
 suma = len(shopping_list[shop][shops])
 print(f"W sumie kupuję {suma} produktów.")
 
-print("\n")
-
-# ZADANIE 2
-# Część 1
-# Sposób 1
-print("ZADANIE 2\n\nCzęść 1\nSposób 1\n")
-for i in range(0, 100):
-  if i % 5 == 0:
-    print(f"Liczby podzielne przez 5 z zakresu od 0 do 100 {i}")
-
-print("\n\n")
-
-# Sposób 2
-print("Sposób 2\n")
-divisible = [i for i in range(0, 100) if i % 5 == 0]
-print(f"Liczby podzielne przez 5 z zakresu o 0 do 100 to {divisible}")
-
-print("\n\n")
-
-# Część 2
-print("Część 2\n")
-exponentiation = [j * j * j for j in divisible]
-print(f"Liczby podniesione do potęgi 3 spośród liczb podzielnych przez 5 to {exponentiation}")
+print("Nowy wpis")
