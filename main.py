@@ -26,3 +26,4 @@ print("teraz to bede sobie caly czas przesyłał informacje z jednego repo do dr
 print("teraz juz chyba rozumiem działanie systemu kontroli wersji")
 
 print("a teraz szybka akcja reaktywacja")
+print("no i wiadomość zwrotna, DOPBRZE CI IDZIE I OBY TAK DALEJ")
