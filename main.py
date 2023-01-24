@@ -18,3 +18,4 @@ suma = len(shopping_list[shop][shops])
 print(f"W sumie kupuję {suma} produktów.")
 
 print("Nowy wpis")
+print("Kolejny nowy wpis")
