@@ -34,3 +34,4 @@ for i in range(0, 100):
 print("Dzisiaj od nowa zabawa i koniec kropka")
 import math
 print(math.sqrt(15))
+print('no i wszytsko działa')
