@@ -32,3 +32,5 @@ for i in range(0, 100):
     print("Liczby z przedaiłu od 0 do 100 podzielne przez 5:", i)
     
 print("Dzisiaj od nowa zabawa i koniec kropka")
+import math
+print(math.sqrt(15))
