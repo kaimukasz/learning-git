@@ -35,3 +35,4 @@ print("Dzisiaj od nowa zabawa i koniec kropka")
 import math
 print(math.sqrt(15))
 print('no i wszytsko działa')
+print("No to ostatnie cwiczenie i spadam do dalszej nauki
